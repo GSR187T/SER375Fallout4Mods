@@ -6,6 +6,8 @@ The mod is meant for players who want to add new content to their Fallout 4 game
 
 Only a few tools are required to get the mod running: Fallout 4 itself, the Vortex mod manager, and the .zip file included in this repository. No scripting tools, Creation Kit setup, or modding frameworks are needed for installation.
 
+Instructions
+
 Installation (Vortex)
 Install Fallout 4
 

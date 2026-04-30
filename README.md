@@ -1,37 +1,37 @@
 # SER375Fallout4Mods
-Overview
-This repository contains the files for my Fallout 4 mod. The goal is to make the mod easy to download, install, and run using the Vortex mod manager. No Creation Kit setup or development tools are required for end‑users — they only need the final packaged mod file.
+Fallout 4 Mod – README
+This repository contains a small, packaged Fallout 4 mod created for my SER375 project. The goal is to make the mod easy for anyone to download, install, and run on their own machine, even if they’ve never worked with Fallout 4 mods before. Everything needed to use the mod is included here in the repo.
 
-This README is written so that another developer can clone the repo, download the mod file, and verify that it installs correctly.
+The mod is meant for players who want to add new content to their Fallout 4 game, as well as classmates and future developers who may want to review or expand the project. The repo is structured so that someone unfamiliar with my setup can still understand what the project is and how to use it.
 
-📥 Installation Instructions (Vortex)
-Follow these steps to install and run the mod using Vortex, even on a clean machine:
+Only a few tools are required to get the mod running: Fallout 4 itself, the Vortex mod manager, and the .zip file included in this repository. No scripting tools, Creation Kit setup, or modding frameworks are needed for installation.
 
-1. Install Fallout 4
-You must have Fallout 4 installed through Steam, Xbox PC, or GOG.
+Installation (Vortex)
+Install Fallout 4
 
-2. Install Vortex
-Download Vortex from Nexus Mods and install it.
+Install Vortex from Nexus Mods
 
-3. Download the Mod File
-Inside this repository or NexusMods download the packaged mod file:
+Download the .zip mod file from this repository
 
-IsaacMod.zip  
-(or whatever your final mod archive is named)
+Open Vortex → Mods → Install From File
 
-4. Install the Mod in Vortex
-Open Vortex
+Select the .zip file
 
-Go to the Mods tab
+Click Enable
 
-Click Install From File
+Launch Fallout 4 through Vortex
 
-Select the .zip file you downloaded
+The mod should now be active in‑game.
 
-Vortex will import it automatically
+Testing
+To confirm the mod works:
 
-Click Enable to activate the mod
+Install it in Vortex
 
-5. Launch the Game
+Enable it
+
+Launch Fallout 4
+
+Check that the mod’s content appears in‑game
 Start Fallout 4 through Vortex (recommended).
 The mod should now be active and running.
